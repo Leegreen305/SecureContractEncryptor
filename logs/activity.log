@@ -1,0 +1,3 @@
+[2025-06-24 21:40:03.007018] Key and IV saved.
+[2025-06-24 21:40:03.007780] Encrypted Example Agreement.pdf -> Example Agreement.pdf.enc
+[2025-06-24 21:46:08.090220] Decrypted Example Agreement.pdf.enc -> Example Agreement.pdf_decrypted
